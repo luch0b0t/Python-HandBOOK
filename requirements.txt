@@ -3,9 +3,9 @@ pandas==0.18.1
 scipy==0.17.1
 scikit-learn==0.17.1
 scikit-image==0.12.3
-pillow==3.4.2
-matplotlib==1.5.1
-seaborn==0.7.0
+pillow>6.2.0
+atplotlib==1.5.1
+eaborn==0.7.0
 jupyter
 notebook
 line_profiler
